@@ -5,7 +5,7 @@ This script scrapes the U.GG League of Legends Tier List website and extracts th
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Install the required libraries using pip install -r requirements.txt.
+2. Install Selenium using pip install selenium.
 3. Run the script.
 
 ## Prerequisites
